@@ -1,4 +1,11 @@
 Estaciones,NO,NO2,NOx,O3,Veloc.,Direc.,Temp.,R.Sol.,Pres.
+df__Alacant_Babel_completo,si,si,si,si,si,si,si,si,no
+df__Alacant_Pla_completo,si,si,si,si,no,no,no,no,no
+df__Alacant_Rabassa_completo,si,si,si,si,si,si,si,si,si
+df__Albalat_Taronjers_completo,si,si,si,si,no,no,no,no,no
+df__Alcora_completo,si,si,si,si,no,no,no,no,no
+df__Algar_Palancia_completo,si,si,si,si,no,no,no,no,no
+df__Beniganim_completo,no,no,no,si,no,no,si,no,no
 df__Bun_ol_completo,si,si,si,si,si,si,si,si,si
 df__C_Almassora_completo,si,si,si,no,si,si,no,no,no
 df__C_Burriana_completo,si,si,si,si,si,si,si,si,si
@@ -14,7 +21,8 @@ df__Elda_completo,si,si,si,si,no,no,no,no,no
 df__Elxe_agroalimentari_completo,si,si,si,si,si,si,si,si,si
 df__Elxe_bomberos_completo,si,si,si,si,no,no,no,no,no
 df__Gandia_completo,si,si,si,si,no,no,no,no,no
-df__Onda_completo,no,no,no,no,no,no,no,no,no
+df__Morella_completo,si,si,si,si,si,si,si,si,si
+df__Onda_completo,si,si,si,si,si,si,si,si,si
 df__Ontinyent_completo,no,no,no,si,no,no,si,no,no
 df__Paterna_completo,si,si,si,si,no,no,no,no,no
 df__S_CEA_completo,si,si,si,si,si,si,si,si,si
