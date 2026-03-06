@@ -1,0 +1,11 @@
+import numpy as np
+import pandas as pd
+
+# Cargar el array desde el archivo .npy
+data = np.load('/Volumes/copia seguridad1/TFG_Prueba/Datos_iniciales/windows_partitioned/by_transect/dl/Transecto_1/test_X.npy')
+
+# Convertir a DataFrame de pandas (opcional, pero facilita el guardado)
+df = pd.DataFrame(data)
+
+# Guardar como CSV
+df.to_csv('archivo.csv', index=False)
